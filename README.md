@@ -1,1 +1,1 @@
-# LLMs-As-Apps-LangChain-Breakthrough
+# build-generative-ai-apps-with-langchain
