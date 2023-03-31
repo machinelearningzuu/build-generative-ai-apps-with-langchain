@@ -4,6 +4,7 @@
 
 ### Installation
       pip -q install openai langchain huggingface_hub
+      pip install --upgrade openai 
       
   create cadentials.yaml which has below template
             
