@@ -4,6 +4,11 @@
 
 ### Installation
       pip -q install openai langchain huggingface_hub
+      
+  create cadentials.yaml which has below template
+            
+      OPENAI_API_KEY: <<OPENAI_API_KEY>>
+      HUGGINGFACEHUB_API_TOKEN: <<HUGGINGFACEHUB_API_TOKEN>>
 
 ### LangChain Notebooks
 - Basic LLM Prompting with Langchain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/LLM-Prompting-Basics.ipynb)
