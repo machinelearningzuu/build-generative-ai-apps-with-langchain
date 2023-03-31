@@ -5,5 +5,7 @@
 ### Installation
       pip -q install openai langchain huggingface_hub
 
-### Notebooks
+### LangChain Notebooks
 - Basic LLM Prompting with Langchain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/LLM-Prompting-Basics.ipynb)
+
+- Build First Sequential Chain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/The-First-Sequential-Chain.ipynb)
