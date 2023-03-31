@@ -1,10 +1,9 @@
 # build-generative-ai-apps-with-langchain
 
-This repository contains some code examples chains in LLM models and Vision models in OpenAI. Using Langchain, you can build generative AI apps with LLM, Vision models and 
-many other BackEnd Applications.
+"Build Generative AI Apps with LangChain" is a repository that contains a comprehensive framework for building generative AI applications using LangChain, an innovative language modeling platform. This repository includes all the necessary code and documentation to help developers quickly build and deploy generative AI applications
 
 ### Installation
-pip -q install openai langchain huggingface_hub
+      pip -q install openai langchain huggingface_hub
 
 ### Notebooks
-- Basic LLM Prompting with Langchain [Notebook]()
+- Basic LLM Prompting with Langchain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/LLM-Prompting-Basics.ipynb)
