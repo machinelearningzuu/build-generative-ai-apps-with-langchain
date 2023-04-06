@@ -15,3 +15,5 @@
 - Basic LLM Prompting with Langchain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/LLM-Prompting-Basics.ipynb)
 
 - Build First Sequential Chain with Langchain [Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/The-First-Sequential-Chain.ipynb)
+
+- ChatGPT meets LangChain , The Brothers of Destruction 🔥[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/ChatGPT🤝LangChain🔥.ipynb)
