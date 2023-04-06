@@ -18,4 +18,4 @@
 
 - ChatGPT meets LangChain , The Brothers of Destruction 🔥[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/ChatGPT🤝LangChain🔥.ipynb)
 
-- Maintain Conversations with Memory 🔥[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/Conversations with Memory.ipynb)
+- Maintain Conversations with Memory 🔥[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/Conversations-with-Memory.ipynb)
