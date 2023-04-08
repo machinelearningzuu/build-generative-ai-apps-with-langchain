@@ -21,3 +21,5 @@
 - Maintain Conversations with Memory 🔥[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/Conversations-with-Memory.ipynb)
 
 - HuggingFaceHub IN🔥 OpenAI OUT[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/Chat with Flang20B with LangChain n HuggingFace.ipynb)
+
+- HuggingFaceHub🤝LangChain Work Local[Notebook](https://github.com/1zuu/build-generative-ai-apps-with-langchain/blob/main/Chat with Flang20B with LangChain n HuggingFace.ipynb)
